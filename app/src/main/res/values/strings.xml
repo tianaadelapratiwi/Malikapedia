@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Malikapedia</string>
+    <string name="lbl_Following_count">28</string>
+    <string name="lbl_follower_count">28</string>
+    <string name="lbl_post_count">28</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="profile_nama">Tiana Adela Pratiwi</string>
+    <string name="profile_bio_2">Politeknik Negeri Ketapang</string>
+    <string name="profile_bio_1">Informatics Engineering</string>
+    <string name="profile_btn_follow">Follow</string>
+    <string name="Profile_message">Send Message</string>
+    <string name="profile_more">V</string>
+
+    <string name="content_text">Helm RSV FFzero black dof Visor smoke spoiler GPR-R</string>
+    <string name="content_specs_display">RSV</string>
+    <string name="content_specs_size">M, L, XL</string>
+    <string name="content_specs_battery">Helm RSV FFzero Black Dof &amp; asesoris
+    visor flat smoke &amp; clear poiler 3D GPR-R Black Dof microlock SNI, ECE, DOT
+    size normal Pilihan size : M, L, XL Info stok sebelum order ya Gan
+    Terima kasih sudah mampir di Toko Helm Bogor **Lakukan pembelian Ektra Bubble Wrap, hanya Rp. 5000, Link :  dalam keranjang yang sama agar tidak menambah jumlah ongkir.
+    Helm akan dilapisi double "bubble wrap", sehingga menambah keamanan Helm dari benturan #promo #murah #diskon #HelmMotor #HelmHalfFace #HelmFullFace #HelmRetro #AksesorisHelm #KacaHelm #JaringHelm
+    </string>
+    <string name="content_price">Rp. 1.260.000</string>
+    <string name="intent_with_result">Intent With Result</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="intent_with_parcelable">Intent With Parcelable</string>
+    <string name="intent_with_data">Intent With Data</string>
+    <string name="simple_activity">Simple Activity</string>
+    <string name="profile">Profile</string>
+    <string name="tiana_adela_pratiwi">Tiana Adela Pratiwi</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+</resources>
