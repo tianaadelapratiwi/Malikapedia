@@ -22,6 +22,10 @@
     Terima kasih sudah mampir di Toko Helm Bogor **Lakukan pembelian Ektra Bubble Wrap, hanya Rp. 5000, Link :  dalam keranjang yang sama agar tidak menambah jumlah ongkir.
     Helm akan dilapisi double "bubble wrap", sehingga menambah keamanan Helm dari benturan #promo #murah #diskon #HelmMotor #HelmHalfFace #HelmFullFace #HelmRetro #AksesorisHelm #KacaHelm #JaringHelm
     </string>
+    <string name="app_name_">Merek</string>
+    <string name="app_name_buy">BUY</string>
+    <string name="app_name_cart">+CART</string>
+    <string name="app_name_deskripsi">Deskripsi</string>
     <string name="content_price">Rp. 1.260.000</string>
     <string name="intent_with_result">Intent With Result</string>
     <string name="implicit_intent">Implicit Intent</string>
@@ -30,6 +34,4 @@
     <string name="simple_activity">Simple Activity</string>
     <string name="profile">Profile</string>
     <string name="tiana_adela_pratiwi">Tiana Adela Pratiwi</string>
-    <string name="back">Back</string>
-    <string name="todo">TODO</string>
 </resources>
